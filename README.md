@@ -16,7 +16,7 @@ Step 2: How to Test
 1.index.buildIndex() method inside the InvertedIndex class contains the file location of my local machine.
 PLease change the file location to your local machine.
 
-example : "C:\\Users\\iyerrsne\\Desktop\\testfile1.txt"   => "<Your Local path>\\testfile1.txt"
+example : "C:\\Users\\iyerrsne\\Desktop\\testfile1.txt"   => "YourLocalpath\\testfile1.txt"
 
 
 testfile1.txt,textfile2.txt,textfile3.txt are the input test files.
