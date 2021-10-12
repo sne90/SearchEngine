@@ -1,7 +1,7 @@
 Project Details: 
 **********************************
  
-Step 1: Please import the project to your workspace from my GitHub respository.
+Step 1: Please import the project to your Eclipse workspace from my GitHub respository.
 
 Here are steps how to do so :- 
 
@@ -46,11 +46,21 @@ Note:  When trying to do a Git PUSH received error "fatal 403  declined access t
 	Solution : git remote set-url origin https://sneh90@github.com/sne90/SearchEngine.git/		
 
 ***********************************************************
+Java Environment Details :
+
+JDK 11 used 
+
+C:\Users\iyerrsne>java -version
+java version "11.0.10" 2021-01-19 LTS
+Java(TM) SE Runtime Environment 18.9 (build 11.0.10+8-LTS-162)
+Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.10+8-LTS-162, mixed mode)
+
+Eclipse IDE for Java Developers with Version : 2021-09 (4.21.0)
+
+***************************************************
 
 Findwise_SearchEngine.jar can be found in the Github 
 location : https://github.com/sne90/SearchEngine/tree/master/SearchEngineAPI
-
-
 
 
 
